@@ -8,7 +8,7 @@ useHead({
     },
     separator: settings.page_title_separator,
   },
-  titleTemplate: settings.page_title ? '%s %separator %site.name' : '%site.name',
+  titleTemplate: settings.page_title ? '%site.name %separator %s' : '%site.name',
   meta: [
     { name: 'description', content: settings.description },
   ],

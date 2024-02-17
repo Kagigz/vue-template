@@ -13,8 +13,8 @@
     "postinstall": "npx simple-git-hooks"
   },
   "dependencies": {
+    "@unhead/vue": "^1.8.10",
     "@vueuse/core": "^10.7.2",
-    "@vueuse/head": "^2.0.0",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5"
   },
