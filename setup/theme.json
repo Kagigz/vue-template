@@ -1,0 +1,12 @@
+{
+  "colors": {
+    "primary": "#219EBC",
+    "secondary": "#FFB703"
+  },
+  "fontFamily": {
+    "mono": [
+      "DM Mono",
+      "monospace"
+    ]
+  }
+}
